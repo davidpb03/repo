@@ -1,1 +1,1 @@
-Primer fitxer al primer repositori de David Peralta Bejar
+Primer fitxer al primer repositori de David Peralta
